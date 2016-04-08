@@ -9,7 +9,7 @@ image:
   teaser: null
   thumb: null
 ads: false
-published: false
+published: true
 ---
 
 These are the current projects Wet Lab members are working on:
