@@ -13,6 +13,7 @@ published: true
 ---
 
 These are the current projects Wet Lab members are working on:
+![sd wetlab plate circle crop scaled.xcf]({{site.baseurl}}/projects/sd wetlab plate circle crop scaled.xcf)
 
 - Genetic engineering of E. coli and algae
 - Biosensors
